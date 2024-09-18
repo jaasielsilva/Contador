@@ -1,18 +1,20 @@
-## Getting Started
+# Contador
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um projeto de contador simples desenvolvido em Java.
 
-## Folder Structure
+## Funcionalidades
 
-The workspace contains two folders by default, where:
+- Incrementar e decrementar valores
+- Exibir o valor atual do contador
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tecnologias Utilizadas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java
+- NetBeans (ou Visual Studio Code, dependendo de onde o projeto foi desenvolvido)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Como Executar o Projeto
 
-## Dependency Management
+1. Clone o repositório:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+   ```bash
+   git clone https://github.com/jaasielsilva/Contador.git
